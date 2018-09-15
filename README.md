@@ -1,3 +1,5 @@
+![CSS Grid](https://github.com/nkhil/CSS-Grid-NFL-team-logos/blob/master/CSS-GRID-SHOWCASE.png "CSS Grid NFL Logos")
+
 # A Responsive CSS Grid Layout using just 2 lines of CSS!
 ## A simple responsive grid layout using NFL team logos
 
