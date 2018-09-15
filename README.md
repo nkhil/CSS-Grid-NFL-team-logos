@@ -6,7 +6,7 @@ I can't believe how easy Grid makes it to create responsive layouts without @med
 The grid is created using **Just 2 lines of CSS!**
 
 ```
-  display: grid;
+  	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 ```
 
