@@ -14,4 +14,4 @@ The grid is created using **Just 2 lines of CSS!**
 
 OK, there's a third line `grid-gap:0` but this isn't doing any of the heavy lifting! 
 
-
+### The logos have mostly been taken from sportslogos.net and then edited on Photoshop to be uniform. Feel free to use them as you like. I'd love it if you find a use for them (for commercial or not) and dropped me a note. 
