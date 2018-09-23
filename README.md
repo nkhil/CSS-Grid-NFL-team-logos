@@ -3,6 +3,8 @@
 
 I can't believe how easy Grid makes it to create responsive layouts without @media queries. This was a quick project to test drive it, and to display all the NFL team logos in a simple grid using CSS Grid. 
 
+You can see this in action on [my CodePen here.](https://codepen.io/mushroom23/full/JBzzYv/)
+
 ![CSS Grid](https://github.com/nkhil/CSS-Grid-NFL-team-logos/blob/master/CSS-GRID-SHOWCASE.png "CSS Grid NFL Logos")
 
 The grid is created using **Just 2 lines of CSS!**
